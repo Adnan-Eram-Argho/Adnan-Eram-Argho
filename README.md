@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adnan Eram Argho</h1>
+<h1 align="center">I'm Adnan Eram Argho</h1>
 <h3 align="center">Self learned MERN stack web developer</h3>
 
 
