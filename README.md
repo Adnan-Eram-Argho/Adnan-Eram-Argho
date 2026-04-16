@@ -46,8 +46,8 @@ I am a self-taught **Full-Stack Developer** currently pursuing a degree in **Agr
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/adnan-eram-argho" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" /></a>
-<a href="https://fb.com/adnan-eram-argho" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="25" /></a>
+<a href="https://www.linkedin.com/in/md-adnan-eram-argho/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" /></a>
+<a href="https://www.facebook.com/adnaneram.eram" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="25" /></a>
 <a href="https://instagram.com/adnaneramargho" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25" /></a>
 <a href="https://stackoverflow.com/users/your-id-here" target="blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" height="25" /></a>
 </p>
